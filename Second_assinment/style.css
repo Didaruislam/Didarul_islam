@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.top-header{
+    background-color:black;
+    color:#DBB783;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 140px;
+    height: 64px;
+    
+}
+.navigation {
+    list-style: none;
+    display: flex;
+    gap: 32px;
+}
+.link {
+    text-decoration: none;
+    color:#DBB783;

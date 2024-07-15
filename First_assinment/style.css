@@ -121,6 +121,7 @@ footer{
     padding: 80px 140px;
     background-color: #1C82FA;
     color: white;
+    
 }
 .first-colum > h2{
     margin-bottom: 24px;
@@ -136,4 +137,7 @@ list-style: none;
 display: flex;
 flex-direction: column;
 gap: 16px;
+}
+.div1{
+    color: red;
 }
